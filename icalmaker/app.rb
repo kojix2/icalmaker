@@ -40,7 +40,7 @@ module ICalMaker
           form do
             entry do
               stretchy false
-              label 'MyEvent Name'
+              label 'Event Name'
               text <=> [@event, :name]
             end
             date_time_picker do
