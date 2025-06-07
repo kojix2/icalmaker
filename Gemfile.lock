@@ -25,7 +25,7 @@ GEM
       rouge (>= 3.26.0, < 4.0.0)
       super_module (~> 1.4.1)
       text-table (>= 1.2.4, < 2.0.0)
-    icalendar (2.11.0)
+    icalendar (2.11.1)
       base64
       ice_cube (~> 0.16)
       logger
