@@ -25,18 +25,16 @@ GEM
       rouge (>= 3.26.0, < 4.0.0)
       super_module (~> 1.4.1)
       text-table (>= 1.2.4, < 2.0.0)
-    icalendar (2.12.3)
+    icalendar (2.13.0)
       base64
       ice_cube (~> 0.16)
       logger
-      ostruct
     ice_cube (0.17.0)
     libui (0.1.2)
     logger (1.7.0)
     matrix (0.4.3)
     method_source (1.1.0)
     os (1.1.4)
-    ostruct (0.6.3)
     pastel (0.8.0)
       tty-color (~> 0.5)
     perfect-shape (1.0.8)
